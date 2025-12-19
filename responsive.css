@@ -1,0 +1,16 @@
+/* RESPONSIVE DESIGN */
+@media (max-width: 768px) {
+  .search-area {
+    width: 300px;
+  }
+  
+  .note {
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  .form-container {
+    max-width: 90%;
+  }
+}
+
